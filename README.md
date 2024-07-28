@@ -62,15 +62,14 @@
 <h5>31- .</h5>
 <img width="407" alt="31" src="https://github.com/user-attachments/assets/e0fe1799-723f-4538-a22f-36c4d99e6fc8">
 <h5>32- .</h5>
-![32](https://github.com/user-attachments/assets/5c18fba6-ca9c-4601-826e-06f671a01ac9)
+<img width="407" alt="31" src="https://github.com/user-attachments/assets/5c18fba6-ca9c-4601-826e-06f671a01ac9">
 <h5>33- .</h5>
 <img width="959" alt="33" src="https://github.com/user-attachments/assets/0b8116b8-7648-480d-8bea-2354819796f1">
 <h5>34- .</h5>
-![34](https://github.com/user-attachments/assets/a4c32cc5-c762-457e-aa47-1547e0c8e94d)
+<img width="959" alt="33" src="(https://github.com/user-attachments/assets/a4c32cc5-c762-457e-aa47-1547e0c8e94d">
 <h5>35- .</h5>
-![35](https://github.com/user-attachments/assets/e7a2b61e-fdc9-4ee9-8a30-6f2993688e79)
+<img width="959" alt="33" src="https://github.com/user-attachments/assets/e7a2b61e-fdc9-4ee9-8a30-6f2993688e79">
 <h5>36- .</h5>
-![36](https://github.com/user-attachments/assets/a4b14961-7368-4aa9-992e-b662b1ccccf3)
+<img width="959" alt="33" src="https://github.com/user-attachments/assets/a4b14961-7368-4aa9-992e-b662b1ccccf3">
 <h5>37- .</h5>
-![37](https://github.com/user-attachments/assets/b41d5f91-e391-4c5e-b6c9-97dd6cc71eb4)
-
+<img width="959" alt="33" src="https://github.com/user-attachments/assets/b41d5f91-e391-4c5e-b6c9-97dd6cc71eb4">
