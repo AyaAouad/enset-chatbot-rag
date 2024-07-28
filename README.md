@@ -1,7 +1,7 @@
 <center><h3 style="color:red; font-weight:900;">Compte rendu</h3></center>
-<center><h3 style="color:black; font-weight:bold;">Architecture</h3></center>
-<center><h3 style="color:black; font-weight:bold;">L'application est divisée en deux parties principales :</h3></center>
 
+<center><h3 style="color:black; font-weight:bold;">L'application est divisée en deux parties principales :</h3></center>
+<h5>1- Backend :</h5>
 
 <h5>1- .</h5>
 <img width="376" alt="1" src="https://github.com/user-attachments/assets/b71f5fe5-7435-4a5d-863c-ffa973645363">
