@@ -1,4 +1,4 @@
-<center><h3 style="color:Tomato;">Compte rendu</h3></center>
+<center><h3 style="color:red; font-weight:bold;">Compte rendu</h3></center>
 <center><h3 style="color:black; font-weight:bold;">Architecture</h3></center>
 <center><h3 style="color:black; font-weight:bold;">L'application est divisée en deux parties principales :</h3></center>
 
