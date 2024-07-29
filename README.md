@@ -2,11 +2,11 @@
 
 <center><h3 style="color:black; font-weight:bold;">L'application est divisée en deux parties principales :</h3></center>
 <center><h3 style="color:black; font-weight:bold;">- Backend :</h3></center>
-<h5>*Intégration avec les modèles Llama3 et OpenAI pour le traitement du langage naturel.</h5>
-<h5>*Utilisation de pgvector pour la sauvegarde de store dans une base de données PostgreSQL.</h5>
+<h5>°Intégration avec les modèles Llama3 et OpenAI pour le traitement du langage naturel.</h5>
+<h5>°Utilisation de pgvector pour la sauvegarde de store dans une base de données PostgreSQL.</h5>
 <center><h3 style="color:black; font-weight:bold;">- Frontend :</h3></center>
-<h5>*Utilisation de React pour construire une interface utilisateur réactive et moderne.</h5>
-<h5>*Utilisation de VAADIN pour les composants d'interface utilisateur.</h5>
+<h5>°Utilisation de React pour construire une interface utilisateur réactive et moderne.</h5>
+<h5>°Utilisation de VAADIN pour les composants d'interface utilisateur.</h5>
 <h5>1- Installation de ollama avec la commande ollama run llama3.</h5>
 <img width="376" alt="1" src="https://github.com/user-attachments/assets/b71f5fe5-7435-4a5d-863c-ffa973645363">
 <h5>2- Installation complétée avec succès.</h5>
