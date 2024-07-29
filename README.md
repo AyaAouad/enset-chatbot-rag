@@ -1,7 +1,7 @@
 <center><h3 style="color:red; font-weight:900;">Compte rendu</h3></center>
 
 <center><h3 style="color:black; font-weight:bold;">L'application est divisée en deux parties principales :</h3></center>
-<center><h3 style="color:black; font-weight:bold;"><h5>- Backend :</h5></center>
+<center><h3 style="color:black; font-weight:bold;">- Backend :</h3></center>
 <h5>*Intégration avec les modèles Llama3 et OpenAI pour le traitement du langage naturel.</h5>
 <h5>*Utilisation de pgvector pour la sauvegarde de store dans une base de données PostgreSQL.</h5>
 <h5>- Frontend :</h5>
